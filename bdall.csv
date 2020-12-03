@@ -1,0 +1,564 @@
+id,name,parent_id
+1,Chattagram,0
+2,Rajshahi,0
+3,Khulna,0
+4,Barisal,0
+5,Sylhet,0
+6,Dhaka,0
+7,Rangpur,0
+8,Mymensingh,0
+9,Comilla,1
+10,Feni,1
+11,Brahmanbaria,1
+12,Rangamati,1
+13,Noakhali,1
+14,Chandpur,1
+15,Lakshmipur,1
+16,Chattogram,1
+17,Coxsbazar,1
+18,Khagrachhari,1
+19,Bandarban,1
+20,Sirajganj,2
+21,Pabna,2
+22,Bogura,2
+23,Rajshahi,2
+24,Natore,2
+25,Joypurhat,2
+26,Chapainawabganj,2
+27,Naogaon,2
+28,Jashore,3
+29,Satkhira,3
+30,Meherpur,3
+31,Narail,3
+32,Chuadanga,3
+33,Kushtia,3
+34,Magura,3
+35,Khulna,3
+36,Bagerhat,3
+37,Jhenaidah,3
+38,Jhalakathi,4
+39,Patuakhali,4
+40,Pirojpur,4
+41,Barisal,4
+42,Bhola,4
+43,Barguna,4
+44,Sylhet,5
+45,Moulvibazar,5
+46,Habiganj,5
+47,Sunamganj,5
+48,Narsingdi,6
+49,Gazipur,6
+50,Shariatpur,6
+51,Narayanganj,6
+52,Tangail,6
+53,Kishoreganj,6
+54,Manikganj,6
+55,Dhaka,6
+56,Munshiganj,6
+57,Rajbari,6
+58,Madaripur,6
+59,Gopalganj,6
+60,Faridpur,6
+61,Panchagarh,7
+62,Dinajpur,7
+63,Lalmonirhat,7
+64,Nilphamari,7
+65,Gaibandha,7
+66,Thakurgaon,7
+67,Rangpur,7
+68,Kurigram,7
+69,Sherpur,8
+70,Mymensingh,8
+71,Jamalpur,8
+72,Netrokona,8
+73,Debidwar,9
+74,Barura,9
+75,Brahmanpara,9
+76,Chandina,9
+77,Chauddagram,9
+78,Daudkandi,9
+79,Homna,9
+80,Laksam,9
+81,Muradnagar,9
+82,Nangalkot,9
+83,Comilla Sadar,9
+84,Meghna,9
+85,Monohargonj,9
+86,Sadarsouth,9
+87,Titas,9
+88,Burichang,9
+89,Lalmai,9
+90,Chhagalnaiya,10
+91,Feni Sadar,10
+92,Sonagazi,10
+93,Fulgazi,10
+94,Parshuram,10
+95,Daganbhuiyan,10
+96,Brahmanbaria Sadar,11
+97,Kasba,11
+98,Nasirnagar,11
+99,Sarail,11
+100,Ashuganj,11
+101,Akhaura,11
+102,Nabinagar,11
+103,Bancharampur,11
+104,Bijoynagar,11
+105,Rangamati Sadar,12
+106,Kaptai,12
+107,Kawkhali,12
+108,Baghaichari,12
+109,Barkal,12
+110,Langadu,12
+111,Rajasthali,12
+112,Belaichari,12
+113,Juraichari,12
+114,Naniarchar,12
+115,Noakhali Sadar,13
+116,Companiganj,13
+117,Begumganj,13
+118,Hatia,13
+119,Subarnachar,13
+120,Kabirhat,13
+121,Senbug,13
+122,Chatkhil,13
+123,Sonaimori,13
+124,Haimchar,14
+125,Kachua,14
+126,Shahrasti,14
+127,Chandpur Sadar,14
+128,Matlab South,14
+129,Hajiganj,14
+130,Matlab North,14
+131,Faridgonj,14
+132,Lakshmipur Sadar,15
+133,Kamalnagar,15
+134,Raipur,15
+135,Ramgati,15
+136,Ramganj,15
+137,Rangunia,16
+138,Sitakunda,16
+139,Mirsharai,16
+140,Patiya,16
+141,Sandwip,16
+142,Banshkhali,16
+143,Boalkhali,16
+144,Anwara,16
+145,Chandanaish,16
+146,Satkania,16
+147,Lohagara,16
+148,Hathazari,16
+149,Fatikchhari,16
+150,Raozan,16
+151,Karnafuli,16
+152,Coxsbazar Sadar,17
+153,Chakaria,17
+154,Kutubdia,17
+155,Ukhiya,17
+156,Moheshkhali,17
+157,Pekua,17
+158,Ramu,17
+159,Teknaf,17
+160,Khagrachhari Sadar,18
+161,Dighinala,18
+162,Panchari,18
+163,Laxmichhari,18
+164,Mohalchari,18
+165,Manikchari,18
+166,Ramgarh,18
+167,Matiranga,18
+168,Guimara,18
+169,Bandarban Sadar,19
+170,Alikadam,19
+171,Naikhongchhari,19
+172,Rowangchhari,19
+173,Lama,19
+174,Ruma,19
+175,Thanchi,19
+176,Belkuchi,20
+177,Chauhali,20
+178,Kamarkhand,20
+179,Kazipur,20
+180,Raigonj,20
+181,Shahjadpur,20
+182,Sirajganj Sadar,20
+183,Tarash,20
+184,Ullapara,20
+185,Sujanagar,21
+186,Ishurdi,21
+187,Bhangura,21
+188,Pabna Sadar,21
+189,Bera,21
+190,Atghoria,21
+191,Chatmohar,21
+192,Santhia,21
+193,Faridpur,21
+194,Kahaloo,22
+195,Bogra Sadar,22
+196,Shariakandi,22
+197,Shajahanpur,22
+198,Dupchanchia,22
+199,Adamdighi,22
+200,Nondigram,22
+201,Sonatala,22
+202,Dhunot,22
+203,Gabtali,22
+204,Sherpur,22
+205,Shibganj,22
+206,Paba,23
+207,Durgapur,23
+208,Mohonpur,23
+209,Charghat,23
+210,Puthia,23
+211,Bagha,23
+212,Godagari,23
+213,Tanore,23
+214,Bagmara,23
+215,Natore Sadar,24
+216,Singra,24
+217,Baraigram,24
+218,Bagatipara,24
+219,Lalpur,24
+220,Gurudaspur,24
+221,Naldanga,24
+222,Akkelpur,25
+223,Kalai,25
+224,Khetlal,25
+225,Panchbibi,25
+226,Joypurhat Sadar,25
+227,Chapainawabganj Sadar,26
+228,Gomostapur,26
+229,Nachol,26
+230,Bholahat,26
+231,Shibganj,26
+232,Mohadevpur,27
+233,Badalgachi,27
+234,Patnitala,27
+235,Dhamoirhat,27
+236,Niamatpur,27
+237,Manda,27
+238,Atrai,27
+239,Raninagar,27
+240,Naogaon Sadar,27
+241,Porsha,27
+242,Sapahar,27
+243,Manirampur,28
+244,Abhaynagar,28
+245,Bagherpara,28
+246,Chougachha,28
+247,Jhikargacha,28
+248,Keshabpur,28
+249,Jessore Sadar,28
+250,Sharsha,28
+251,Assasuni,29
+252,Debhata,29
+253,Kalaroa,29
+254,Satkhira Sadar,29
+255,Shyamnagar,29
+256,Tala,29
+257,Kaliganj,29
+258,Mujibnagar,30
+259,Meherpur Sadar,30
+260,Gangni,30
+261,Narail Sadar,31
+262,Lohagara,31
+263,Kalia,31
+264,Chuadanga Sadar,32
+265,Alamdanga,32
+266,Damurhuda,32
+267,Jibannagar,32
+268,Kushtia Sadar,33
+269,Kumarkhali,33
+270,Khoksa,33
+271,Mirpur,33
+272,Daulatpur,33
+273,Bheramara,33
+274,Shalikha,34
+275,Sreepur,34
+276,Magura Sadar,34
+277,Mohammadpur,34
+278,Paikgasa,35
+279,Fultola,35
+280,Digholia,35
+281,Rupsha,35
+282,Terokhada,35
+283,Dumuria,35
+284,Botiaghata,35
+285,Dakop,35
+286,Koyra,35
+287,Fakirhat,36
+288,Bagerhat Sadar,36
+289,Mollahat,36
+290,Sarankhola,36
+291,Rampal,36
+292,Morrelganj,36
+293,Kachua,36
+294,Mongla,36
+295,Chitalmari,36
+296,Jhenaidah Sadar,37
+297,Shailkupa,37
+298,Harinakundu,37
+299,Kaliganj,37
+300,Kotchandpur,37
+301,Moheshpur,37
+302,Jhalakathi Sadar,38
+303,Kathalia,38
+304,Nalchity,38
+305,Rajapur,38
+306,Bauphal,39
+307,Patuakhali Sadar,39
+308,Dumki,39
+309,Dashmina,39
+310,Kalapara,39
+311,Mirzaganj,39
+312,Galachipa,39
+313,Rangabali,39
+314,Pirojpur Sadar,40
+315,Nazirpur,40
+316,Kawkhali,40
+317,Zianagar,40
+318,Bhandaria,40
+319,Mathbaria,40
+320,Nesarabad,40
+321,Barisal Sadar,41
+322,Bakerganj,41
+323,Babuganj,41
+324,Wazirpur,41
+325,Banaripara,41
+326,Gournadi,41
+327,Agailjhara,41
+328,Mehendiganj,41
+329,Muladi,41
+330,Hizla,41
+331,Bhola Sadar,42
+332,Borhan Sddin,42
+333,Charfesson,42
+334,Doulatkhan,42
+335,Monpura,42
+336,Tazumuddin,42
+337,Lalmohan,42
+338,Amtali,43
+339,Barguna Sadar,43
+340,Betagi,43
+341,Bamna,43
+342,Pathorghata,43
+343,Taltali,43
+344,Balaganj,44
+345,Beanibazar,44
+346,Bishwanath,44
+347,Companiganj,44
+348,Fenchuganj,44
+349,Golapganj,44
+350,Gowainghat,44
+351,Jaintiapur,44
+352,Kanaighat,44
+353,Sylhet Sadar,44
+354,Zakiganj,44
+355,Dakshinsurma,44
+356,Osmaninagar,44
+357,Barlekha,45
+358,Kamolganj,45
+359,Kulaura,45
+360,Moulvibazar Sadar,45
+361,Rajnagar,45
+362,Sreemangal,45
+363,Juri,45
+364,Nabiganj,46
+365,Bahubal,46
+366,Ajmiriganj,46
+367,Baniachong,46
+368,Lakhai,46
+369,Chunarughat,46
+370,Habiganj Sadar,46
+371,Madhabpur,46
+372,Sunamganj Sadar,47
+373,South Sunamganj,47
+374,Bishwambarpur,47
+375,Chhatak,47
+376,Jagannathpur,47
+377,Dowarabazar,47
+378,Tahirpur,47
+379,Dharmapasha,47
+380,Jamalganj,47
+381,Shalla,47
+382,Derai,47
+383,Belabo,48
+384,Monohardi,48
+385,Narsingdi Sadar,48
+386,Palash,48
+387,Raipura,48
+388,Shibpur,48
+389,Kaliganj,49
+390,Kaliakair,49
+391,Kapasia,49
+392,Gazipur Sadar,49
+393,Sreepur,49
+394,Shariatpur Sadar,50
+395,Naria,50
+396,Zajira,50
+397,Gosairhat,50
+398,Bhedarganj,50
+399,Damudya,50
+400,Araihazar,51
+401,Bandar,51
+402,Narayanganj Sadar,51
+403,Rupganj,51
+404,Sonargaon,51
+405,Basail,52
+406,Bhuapur,52
+407,Delduar,52
+408,Ghatail,52
+409,Gopalpur,52
+410,Madhupur,52
+411,Mirzapur,52
+412,Nagarpur,52
+413,Sakhipur,52
+414,Tangail Sadar,52
+415,Kalihati,52
+416,Dhanbari,52
+417,Itna,53
+418,Katiadi,53
+419,Bhairab,53
+420,Tarail,53
+421,Hossainpur,53
+422,Pakundia,53
+423,Kuliarchar,53
+424,Kishoreganj Sadar,53
+425,Karimgonj,53
+426,Bajitpur,53
+427,Austagram,53
+428,Mithamoin,53
+429,Nikli,53
+430,Harirampur,54
+431,Saturia,54
+432,Manikganj Sadar,54
+433,Gior,54
+434,Shibaloy,54
+435,Doulatpur,54
+436,Singiar,54
+437,Savar,55
+438,Dhamrai,55
+439,Keraniganj,55
+440,Nawabganj,55
+441,Dohar,55
+442,Munshiganj Sadar,56
+443,Sreenagar,56
+444,Sirajdikhan,56
+445,Louhajanj,56
+446,Gajaria,56
+447,Tongibari,56
+448,Rajbari Sadar,57
+449,Goalanda,57
+450,Pangsa,57
+451,Baliakandi,57
+452,Kalukhali,57
+453,Madaripur Sadar,58
+454,Shibchar,58
+455,Kalkini,58
+456,Rajoir,58
+457,Gopalganj Sadar,59
+458,Kashiani,59
+459,Tungipara,59
+460,Kotalipara,59
+461,Muksudpur,59
+462,Faridpur Sadar,60
+463,Alfadanga,60
+464,Boalmari,60
+465,Sadarpur,60
+466,Nagarkanda,60
+467,Bhanga,60
+468,Charbhadrasan,60
+469,Madhukhali,60
+470,Saltha,60
+471,Panchagarh Sadar,61
+472,Debiganj,61
+473,Boda,61
+474,Atwari,61
+475,Tetulia,61
+476,Nawabganj,62
+477,Birganj,62
+478,Ghoraghat,62
+479,Birampur,62
+480,Parbatipur,62
+481,Bochaganj,62
+482,Kaharol,62
+483,Fulbari,62
+484,Dinajpur Sadar,62
+485,Hakimpur,62
+486,Khansama,62
+487,Birol,62
+488,Chirirbandar,62
+489,Lalmonirhat Sadar,63
+490,Kaliganj,63
+491,Hatibandha,63
+492,Patgram,63
+493,Aditmari,63
+494,Syedpur,64
+495,Domar,64
+496,Dimla,64
+497,Jaldhaka,64
+498,Kishorganj,64
+499,Nilphamari Sadar,64
+500,Sadullapur,65
+501,Gaibandha Sadar,65
+502,Palashbari,65
+503,Saghata,65
+504,Gobindaganj,65
+505,Sundarganj,65
+506,Phulchari,65
+507,Thakurgaon Sadar,66
+508,Pirganj,66
+509,Ranisankail,66
+510,Haripur,66
+511,Baliadangi,66
+512,Rangpur Sadar,67
+513,Gangachara,67
+514,Taragonj,67
+515,Badargonj,67
+516,Mithapukur,67
+517,Pirgonj,67
+518,Kaunia,67
+519,Pirgacha,67
+520,Kurigram Sadar,68
+521,Nageshwari,68
+522,Bhurungamari,68
+523,Phulbari,68
+524,Rajarhat,68
+525,Ulipur,68
+526,Chilmari,68
+527,Rowmari,68
+528,Charrajibpur,68
+529,Sherpur Sadar,69
+530,Nalitabari,69
+531,Sreebordi,69
+532,Nokla,69
+533,Jhenaigati,69
+534,Fulbaria,70
+535,Trishal,70
+536,Bhaluka,70
+537,Muktagacha,70
+538,Mymensingh Sadar,70
+539,Dhobaura,70
+540,Phulpur,70
+541,Haluaghat,70
+542,Gouripur,70
+543,Gafargaon,70
+544,Iswarganj,70
+545,Nandail,70
+546,Tarakanda,70
+547,Jamalpur Sadar,71
+548,Melandah,71
+549,Islampur,71
+550,Dewangonj,71
+551,Sarishabari,71
+552,Madarganj,71
+553,Bokshiganj,71
+554,Barhatta,72
+555,Durgapur,72
+556,Kendua,72
+557,Atpara,72
+558,Madan,72
+559,Khaliajuri,72
+560,Kalmakanda,72
+561,Mohongonj,72
+562,Purbadhala,72
+563,Netrokona Sadar,72
